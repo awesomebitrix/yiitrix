@@ -1,0 +1,27 @@
+{
+    "name": "profaller/yiitrix",
+    "description": "",
+    "keywords": ["behavior", "active record", "yii2", "upload file", "upload", "relation"],
+    "homepage": "https://github.com/profaller/yiitrix",
+    "type": "yiitrix",
+    "license": "MIT",
+    "support": {
+        "issues": "https://github.com/profaller/yiitrix/issues",
+        "source": "https://github.com/profaller/yiitrix"
+    },
+    "authors": [
+        {
+            "name": "Alexey Fitisov",
+            "email": "hello.profaller@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "yiisoft/yii2": "^2"
+    },
+    "autoload": {
+        "psr-4": {
+            "profaller\\yiitrix\\": "libs"
+        }
+    }
+}
