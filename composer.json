@@ -1,9 +1,9 @@
 {
     "name": "profaller/yiitrix",
     "description": "",
-    "keywords": ["behavior", "active record", "yii2", "upload file", "upload", "relation"],
+    "keywords": ["bitrix", "yii2", "mvc"],
     "homepage": "https://github.com/profaller/yiitrix",
-    "type": "yiitrix",
+    "type": "lib",
     "license": "MIT",
     "support": {
         "issues": "https://github.com/profaller/yiitrix/issues",
@@ -11,7 +11,7 @@
     },
     "authors": [
         {
-            "name": "Alexey Fitisov",
+            "name": "AlexF",
             "email": "hello.profaller@gmail.com"
         }
     ],
